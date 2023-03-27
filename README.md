@@ -1,5 +1,5 @@
 #  Basic Clock Widget
-![logo]()
+![logo](https://github.com/amankumawat-567/clock-widget/blob/main/Untitled.png)
 It's a simple digital time display that can be added to a device's home screen.It typically features a small rectangular design, with the current date and time displayed in large, easy-to-read numbers.
 <br>
 CODE :
